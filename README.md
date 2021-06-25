@@ -2,7 +2,7 @@
 
 Problem Statement: To implement a CNN image classifier to find the marvel Superhero.
 
-##How to use:
+#How to use:#
 Run app.py in terminal, and enjoy :)
 
 
